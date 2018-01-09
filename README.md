@@ -1,6 +1,6 @@
-# Unity Trello Integration
+# Trello For Unity
 
-Unity Trello Integration (UTI) allows you to easy implements a feedback system for your game in less than 5 minutes.
+Trello For Unity allows you to easy implements a feedback system for your game in less than 5 minutes.
 This are some of the features:
 
   - Create custom cards in your Trello boards.
@@ -19,8 +19,8 @@ This are some of the features:
 
 # Release information
 
-The Unity Trello Integration is still under development, the estimated release is in **January 2018.**
+Trello For Unity is still under development, the estimated release is in **January 2018.**
 
 **IMPORTANT INFORMATION**
-**The expected release price is $7 dollars.
+**The expected release price is $7 dollars. //
 Some of the updates will increase the price. Upgrades from a previous version of purchased asset will be free, so it's advisable to buy it as soon as possible.**
